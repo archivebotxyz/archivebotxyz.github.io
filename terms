@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
+
+    <link rel="stylesheet" href="style.css" media="screen">
+
+
+
+    <link rel="icon" type="image/png" href="thumbnail.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="thumbnail.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="thumbnail.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="72x72" href="thumbnail.png" >
+    <link rel="apple-touch-icon" sizes="114x114" href="thumbnail.png" >
+    <link rel="apple-touch-icon" sizes="152x152" href="thumbnail.png" >
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+
+
+    <title>archive.xyz</title>
+    <meta name="description" content="Website for everything Archive!">
+    <meta name="keywords" content="Bot Page">
+    
+    <meta name="theme-color" content="#FFB6C1">
+    <meta property="og:url" content="https://archivebotxyz.github.io"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Archive">
+    <meta property="og:description" content="Main Page for Archive!">
+    <meta property="og:image" content="https://archivebotxyz.github.io/images/banner.png" />
+
+  </head>
+  <body class="bg-dark">
+    
+    <nav class="navbar navbar-expand-md bg-discord navbar-dark">
+        <div class="container">
+
+            <a class="navbar-brand" href="index.html"><b>Archive</b></a>
+        
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        
+
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://discord.com/api/oauth2/authorize?client_id=1001324132098658458&permissions=8&scope=bot">Invite to Server</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://discord.gg/2nFWe5hGSy">Support Server</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="commands.html">Commands</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="update-logs.html">Update Logs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="otherbots.html">Other Bots</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container container-1">
+        <div class="row">
+            <h1 class="brand-line"><b>Welcome to the future with Archive!</b></h1>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                <div class="card bg-grey" style="width:100%">
+                    <div class="card-body">
+                      <img class="card-img-top" src="images/banner.png" alt="Bot Invite" style="width:100%">
+                      <h4 class="card-title big-text">Invite Bot</h4>
+                      <p class="card-text">Invite the greatest bot on Discord!</p>
+                      <a href="https://discord.com/api/oauth2/authorize?client_id=1001324132098658458&permissions=8&scope=bot" class="btn btn-discord btn-block stretched-link">Invite Bot</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                <div class="card bg-grey" style="width:100%">
+                    <div class="card-body">
+                      <img class="card-img-top" src="images/image2.png" alt="Support Server" style="width:100%">
+                      <h4 class="card-title big-text">Support Server</h4>
+                      <p class="card-text">Join our support server for help with bugs!</p>
+                      <a href="https://discord.gg/2nFWe5hGSy" class="btn btn-discord btn-block stretched-link">Join our Support Server</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                <div class="card bg-grey" style="width:100%">
+                    <div class="card-body">
+                      <img class="card-img-top" src="images/image3.png" alt="Commands" style="width:100%">
+                      <h4 class="card-title big-text">Bot Commands</h4>
+                      <p class="card-text">View a full list of Commands!</p>
+                      <a href="commands.html" class="btn btn-discord btn-block stretched-link">View Commands</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+                  <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                <div class="card bg-grey" style="width:100%">
+                    <div class="card-body">
+                      <img class="card-img-top" src="images/archiveserverbanner.png" alt="Commands" style="width:100%">
+                      <h4 class="card-title big-text">Archive Discord Server</h4>
+                      <p class="card-text">Join the Archive server. (This is not the support server!)</p>
+                      <a href="https://discord.gg/QZtxh5rAvx" class="btn btn-discord btn-block stretched-link">Join Archive!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+      <a href="https://top.gg/bot/1001324132098658458">
+  <img src="https://top.gg/api/widget/owner/1001324132098658458.svg">
+</a>
+<a href="https://top.gg/bot/1001324132098658458">
+  <img src="https://top.gg/api/widget/servers/1001324132098658458.svg?noavatar=true">
+</a>
+<a href="https://top.gg/bot/1001324132098658458">
+  <img src="https://top.gg/api/widget/upvotes/1001324132098658458.svg?noavatar=true">
+</a>
+
+    <nav class="navbar navbar-expand-md bg-discord navbar-dark justify-content-center">
+        <div class="container">
+            <a class="navbar-brand" href="index.html"><b>&#169; 2023 | Archive</b></a>
+        </div>
+    </nav>
+      
+  </body>
+</html>
